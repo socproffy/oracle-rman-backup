@@ -1,6 +1,10 @@
 # 🗄️ Oracle RMAN Backup - KornShell Script (10g → 23ai)
 
-Este repositorio contiene un **script hecho en KornShell (ksh)** que actúa como wrapper de **RMAN** para estandarizar y automatizar backups de **Oracle Database**, originalmente desarrollado en 2008 (Oracle 10g, UNIX) y actualizado para su uso en **Oracle Database 23ai** y entornos modernos.
+Este repositorio contiene un script hecho en KornShell (ksh) que actúa como wrapper de RMAN para estandarizar y automatizar backups de Oracle Database, originalmente desarrollado en 2008 (Oracle 10g, UNIX) y actualizado para su uso en Oracle Database 23ai y entornos modernos.
+
+Gracias a su diseño modular y a la simplicidad de parámetros, a partir de aquí resulta muy sencillo automatizarlo en cualquier plataforma del mercado (on-premises o cloud) e integrarlo en planificadores como cron, systemd, Oracle Scheduler o gestores corporativos de jobs de cualquier software del mercado.
+
+Esto permite maximizar los beneficios del uso de los backups en diferentes escenarios: desde la protección de sistemas Base, hasta la habilitación de entornos de pruebas, desarrollo, reporting o replicación, aprovechando toda la potencia de los sistemas operativos basados en UNIX (Linux, AIX, Solaris, HP-UX, etc.) en cualquier infraestructura, incluyendo plataformas de última generación como Oracle Exadata.
 
 ---
 
