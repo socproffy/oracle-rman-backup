@@ -46,11 +46,11 @@ El script `backup_rman.sh`:
 
 ## ⚡ Ejemplos de ejecución
 
+
 * Backup base a disco:  
   ```bash
   ./backup_rman.sh <SID> database_base_to_disk /backup/path
 ````
-
 * Backup base a cinta:
 
   ```bash
