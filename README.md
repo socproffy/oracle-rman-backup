@@ -1,6 +1,6 @@
 # 🗄️ Oracle RMAN Backup Script (10g → 23ai)
 
-Este repositorio contiene un **script shell (ksh)** que actúa como wrapper de **RMAN** para estandarizar y automatizar backups de **Oracle Database**, originalmente desarrollado en 2008 (Oracle 10g, UNIX) y actualizado en 2025 para su uso en **Oracle Database 23ai** y entornos modernos.
+Este repositorio contiene un **script shell (ksh)** que actúa como wrapper de **RMAN** para estandarizar y automatizar backups de **Oracle Database**, originalmente desarrollado en 2008 (Oracle 10g, UNIX) y actualizado para su uso en **Oracle Database 23ai** y entornos modernos.
 
 ---
 
