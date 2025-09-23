@@ -1,4 +1,3 @@
-````markdown
 # ✅ Testing RMAN Backup Script on Oracle Database 23ai
 
 Este documento recoge los resultados de la fase de **pruebas del script `backup_rman.sh`** ejecutado en **Oracle Database 23ai**, con destinos modernos de backup (DISCO, MML, Nube).
@@ -10,7 +9,7 @@ Este documento recoge los resultados de la fase de **pruebas del script `backup_
 **Comando:**
 ```bash
 ./backup_rman.sh CDB23AI database_base
-````
+```
 
 **Resultado esperado (log):**
 
