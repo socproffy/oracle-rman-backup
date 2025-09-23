@@ -155,7 +155,5 @@ Base de datos CLOSED – backup cancelado.
 * Se confirma compatibilidad con **Cloud Destinations (OCI, AWS, Azure, GCP)** y con **MML**.
 ---
 
-```
-
 
 
