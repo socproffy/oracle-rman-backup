@@ -49,9 +49,9 @@ El script `backup_rman.sh`:
 
 * Backup base a disco: 
 
-```bash
-./backup_rman.sh <SID> database_base_to_disk /backup/path
-```
+ ```bash
+ ./backup_rman.sh <SID> database_base_to_disk /backup/path
+ ```
 * Backup base a cinta:
 
   ```bash
