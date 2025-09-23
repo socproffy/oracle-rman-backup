@@ -20,7 +20,7 @@ El script `backup_rman.sh`:
 - Ejecuta backups **full / incremental** sobre **database** o **tablespace**.  
 - Permite destino en **DISCO** o **CINTA (MML)** según sufijo `*_to_disk` o `*_to_tape`.  
 - Aplica políticas de retención compatibles con RMAN y `CONTROL_FILE_RECORD_KEEP_TIME`.  
-- Solo debe ejecutarse con el usuario de sistema operativo `oracle`.
+- Solo debe ejecutarse con el usuario de sistema operativo `oracle` (dueño del software de Oracle).
 
 ### Parámetros
 1. **SID** de la instancia.  
