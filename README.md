@@ -45,7 +45,7 @@ El script `backup_rman.sh`:
 ---
 
 ## ⚡ Ejemplos de ejecución
-
+---
 
 * Backup base a disco:  
   ```bash
