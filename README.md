@@ -45,12 +45,13 @@ El script `backup_rman.sh`:
 ---
 
 ## ⚡ Ejemplos de ejecución
----
 
-* Backup base a disco:  
+
+* Backup base a disco: 
+
   ```bash
   ./backup_rman.sh <SID> database_base_to_disk /backup/path
-````
+```
 * Backup base a cinta:
 
   ```bash
@@ -71,7 +72,6 @@ El script `backup_rman.sh`:
   ```bash
   ./backup_rman.sh <SID> incremental_database_to_tape
   ```
----
 
 ## 🔧 Mejoras modernas (comentadas en el script)
 
