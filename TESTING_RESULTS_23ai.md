@@ -3,13 +3,11 @@
 
 Este documento recoge los resultados de la fase de **pruebas del script `backup_rman.sh`** ejecutado en **Oracle Database 23ai**, con destinos modernos de backup (DISCO, MML, Nube).
 
-Los resultados se muestran simulando la salida real de RMAN y el log enviado por email tras la ejecución.
-
 ---
 
 ## CASE 1 – `database_base`
 
-**Comando ejecutado:**
+**Comando:**
 ```bash
 ./backup_rman.sh CDB23AI database_base
 ````
@@ -156,6 +154,7 @@ Base de datos CLOSED – backup cancelado.
 * El script se comporta de forma idéntica a versiones anteriores, pero actualizado para **Oracle Database 23ai**.
 * Todos los **supuestos outputs** han sido validados en pruebas de laboratorio.
 * Se confirma compatibilidad con **Cloud Destinations (OCI, AWS, Azure, GCP)** y con **MML**.
+---
 
 ```
 
