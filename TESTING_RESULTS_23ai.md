@@ -1,6 +1,6 @@
 # ✅ Testing RMAN Backup Script on Oracle Database 23ai
 
-Este documento recoge los resultados de la fase de **pruebas del script `backup_rman.sh`** ejecutado en **Oracle Database 23ai**, con destinos modernos de backup (DISCO, MML, Nube).
+Este documento recoge los resultados de la fase de **pruebas del script `rman_backup_legacy10g_to_23ai.sh`** ejecutado en **Oracle Database 23ai**, con destinos modernos de backup (DISCO, MML, Nube).
 
 ---
 
