@@ -46,7 +46,7 @@ El script `backup_rman.sh`:
 
 ## ⚡ Ejemplos de ejecución
 
-- Backup base a disco:  
+* Backup base a disco:  
   ```bash
   ./backup_rman.sh <SID> database_base_to_disk /backup/path
 ````
@@ -71,7 +71,6 @@ El script `backup_rman.sh`:
   ```bash
   ./backup_rman.sh <SID> incremental_database_to_tape
   ```
-
 ---
 
 ## 🔧 Mejoras modernas (comentadas en el script)
@@ -88,3 +87,5 @@ El script `backup_rman.sh`:
 
 Este repositorio se distribuye bajo la licencia MIT.
 Puedes usarlo, modificarlo y compartirlo libremente, siempre que mantengas este aviso de autoría.
+
+---
