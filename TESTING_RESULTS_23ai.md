@@ -2,6 +2,8 @@
 
 Este documento recoge los resultados de la fase de **pruebas del script `rman_backup_legacy10g_to_23ai.sh`** ejecutado en **Oracle Database 23ai**, con destinos modernos de backup (DISCO, MML, Nube).
 
+(PLANES DE RECUPERACIÓN Y TIEMPOS DE RECUPERACIÓN PUEVEN VARIAR SEGÚN EL ENTORNO, HABLE PARA HACER PRUEBAS REGULARES Y AUDTIORÍAS DE SEGUMINENTO).
+
 ---
 
 ## CASE 1 – `database_base`
@@ -151,7 +153,7 @@ Base de datos CLOSED – backup cancelado.
 ## 🔍 Observaciones finales
 
 * El script se comporta de forma idéntica a versiones anteriores, pero actualizado para **Oracle Database 23ai**.
-* Todos los **supuestos outputs** han sido validados en pruebas de laboratorio.
+* Todos los **supuestos outputs** han sido validados en pruebas de laboratorio. USE A DISCRECIÓN.
 * Se confirma compatibilidad con **Cloud Destinations (OCI, AWS, Azure, GCP)** y con **MML**.
 ---
 
