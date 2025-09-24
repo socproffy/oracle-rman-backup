@@ -96,4 +96,5 @@ Este repositorio se distribuye bajo la licencia MIT.
 Puedes usarlo, modificarlo y compartirlo libremente, siempre que mantengas este aviso de autoría.
 
 ---
-![korn](https://github.com/user-attachments/assets/03e0f7a1-9829-4e3a-a3e9-435d34b955b9)
+![kornshell](https://github.com/user-attachments/assets/af77bd08-49da-4e69-9180-76843ed37cd4)
+---
