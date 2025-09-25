@@ -22,7 +22,7 @@ Esto permite maximizar los beneficios del uso de los backups en diferentes escen
 
 ## 📖 Descripción
 
-El script `backup_rman.sh`:
+El script `rman_backup_legacy10g_to_23ai.sh`:
 - Captura el *profile* de la instancia Oracle (`.profile_<SID>`).  
 - Valida que la instancia está en estado `OPEN`.  
 - Ejecuta backups **full / incremental** sobre **database** o **tablespace**.  
