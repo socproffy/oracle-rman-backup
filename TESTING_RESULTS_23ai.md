@@ -3,7 +3,7 @@
 Este documento recoge los resultados de la fase de **pruebas del script `rman_backup_legacy10g_to_23ai.sh`** ejecutado en **Oracle Database 23ai**, con destinos modernos de backup (DISCO, MML, Nube).
 
 ⚡CONTACTE SI QUIERE LA SOLUCIÓN ADAPTADA CON PLANES DE RECUPERACIÓN.
-⚡TIEMPOS DE RECUPERACIÓN PUEVEN VARIAR SEGÚN EL ENTORNO.
+⚡TIEMPOS DE RECUPERACIÓN PUEDEN VARIAR SEGÚN EL ENTORNO.
 ⚡HABLE PARA HACER PRUEBAS REGULARES Y AUDITORÍAS DE SEGUIMIENTO.
 
 ---
