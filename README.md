@@ -7,7 +7,7 @@ Gracias a su diseño modular y a la simplicidad de parámetros, a partir de aqu�
 Esto permite maximizar los beneficios del uso de los backups en diferentes escenarios: desde la protección de sistemas Base, hasta la habilitación de entornos de pruebas, desarrollo, reporting o replicación, aprovechando toda la potencia de los sistemas operativos basados en UNIX (Linux, AIX, Solaris, HP-UX, etc.) en cualquier infraestructura, incluyendo plataformas de última generación como Oracle Exadata.
 
 ⚡CONTACTE SI QUIERE LA SOLUCIÓN ADAPTADA CON PLANES DE RECUPERACIÓN.
-⚡TIEMPOS DE RECUPERACIÓN PUEVEN VARIAR SEGÚN EL ENTORNO.
+⚡TIEMPOS DE RECUPERACIÓN PUEDEN VARIAR SEGÚN EL ENTORNO.
 ⚡HABLE PARA HACER PRUEBAS REGULARES Y AUDITORÍAS DE SEGUIMIENTO.
 
 ---
